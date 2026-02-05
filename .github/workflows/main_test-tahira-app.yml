@@ -6,7 +6,9 @@ name: Build and deploy PHP app to Azure Web App - test-tahira-app
 on:
   push:
     branches:
-      - main
+    
+      # - main
+      - none
   workflow_dispatch:
 
 jobs:

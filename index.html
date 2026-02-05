@@ -24,7 +24,7 @@
         <!-- Navigation-->
         <nav class="navbar navbar-expand-lg navbar-light fixed-top py-3" id="mainNav">
             <div class="container px-4 px-lg-5">
-               <img class="img-fluid" src="assets/img/portfolio/thumbnails/8.jpg" height= "50px"  width="50px" style="border-radius: 50%;" alt="..." />  <a class="navbar-brand" href="#page-top">&nbsp &nbsp TAHIRA NAWAZ</a>
+               <img class="img-fluid" src="assets/img/portfolio/thumbnails/8.png" height= "50px"  width="50px" style="border-radius: 50%;" alt="..." />  <a class="navbar-brand" href="#page-top">&nbsp &nbsp TAHIRA NAWAZ</a>
                 <button class="navbar-toggler navbar-toggler-right" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ms-auto my-2 my-lg-0">
@@ -45,7 +45,7 @@
                         <hr class="divider" />
                     </div>
                     <div class="col-lg-8 align-self-baseline">
-                        <img class="img-fluid" src="assets/img/portfolio/thumbnails/8.jpg" height= "100px"  width="100px" style="border-radius: 50%;" alt="..." /><p class="text-white-75 mb-5"><br><b><i>TAHIRA NAWAZ</i></b><br>She is Solution Oriented Computer Science Engineer with wide variety of professional skills including AWS, Microsoft Azure, Networking, MS office, Linux, HTML, CSS, JavaScript, MySQL, PHP, Wordpress, Python, Django Python and she is adept to motivating self and others.</p>
+                        <img class="img-fluid" src="assets/img/portfolio/thumbnails/8.png" height= "100px"  width="100px" style="border-radius: 50%;" alt="..." /><p class="text-white-75 mb-5"><br><b><i>TAHIRA NAWAZ</i></b><br>She is Solution Oriented Computer Science Engineer with wide variety of professional skills including AWS, Microsoft Azure, Networking, MS office, Linux, HTML, CSS, JavaScript, MySQL, PHP, Wordpress, Python, Django Python and she is adept to motivating self and others.</p>
                         <a class="btn btn-primary btn-xl" href="#about">Find Out More</a>
                     </div>
                 </div>
